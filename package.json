@@ -6,9 +6,8 @@
     "packages/*"
   ],
   "scripts": {
-    "dev": "vite"
+    "dev": "lerna run dev --parallel"
   },
-  "dependencies": {},
   "devDependencies": {
     "lerna": "^8.2.0"
   }
