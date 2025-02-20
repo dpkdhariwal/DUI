@@ -6,7 +6,8 @@
     "packages/*"
   ],
   "scripts": {
-    "dev": "lerna run dev --parallel"
+    "dev": "lerna run dev --parallel",
+    "build": "lerna run build --scope library"
   },
   "devDependencies": {
     "lerna": "^8.2.0"
