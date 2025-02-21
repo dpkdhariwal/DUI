@@ -1,2 +1,2 @@
-import Foo from '../components/HelloWorld.vue'
-export { Foo }
+import { Dbutton } from '../components/buttons/Button';
+export { Dbutton };
