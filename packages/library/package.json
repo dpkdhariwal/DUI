@@ -1,6 +1,10 @@
 {
   "name": "duilibb",
+<<<<<<< HEAD
   "version": "0.0.3",
+=======
+  "version": "0.0.2",
+>>>>>>> cc62cf784f8e09cbef616a64982ebf9aa3d650fb
   "private": false,
   "type": "module",
   "files": [

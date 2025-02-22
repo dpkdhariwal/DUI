@@ -7,7 +7,11 @@ export const Dbutton = defineComponent(
 
     const handleClick = () => {
       count.value++
+<<<<<<< HEAD
       console.log('Button has been clicked', count.value)
+=======
+      console.log('Button clicked', count.value)
+>>>>>>> cc62cf784f8e09cbef616a64982ebf9aa3d650fb
     }
 
     return () => {
