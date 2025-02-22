@@ -32,7 +32,7 @@ export const Dbutton = defineComponent(
       },
       title: {
         type: String,
-        default: 'Click me',
+        default: 'Click Here',
       },
     },
   },

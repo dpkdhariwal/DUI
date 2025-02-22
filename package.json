@@ -8,9 +8,13 @@
   "scripts": {
     "dev": "lerna run dev --parallel",
     "build": "lerna run build --scope library",
-    "dev-lib":"lerna run dev --scope library"
+    "dev-lib": "lerna run dev --scope library"
   },
   "devDependencies": {
     "lerna": "^8.2.0"
+  },
+  "dependencies": {
+    "i": "^0.3.7",
+    "npm": "^11.1.0"
   }
 }
