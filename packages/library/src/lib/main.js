@@ -1,2 +1,2 @@
-import { Dbutton } from '../components/buttons/Button';
-export { Dbutton };
+import { Dbutton } from '../components/buttons/Button'
+export { Dbutton }

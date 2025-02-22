@@ -3,8 +3,5 @@ import { Dbutton } from './components/buttons/Button';
 </script>
 
 <template>
-       <Dbutton/> 
-
+       <Dbutton title="Submit" />
 </template>
-
- 
