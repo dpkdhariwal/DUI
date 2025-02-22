@@ -8,13 +8,15 @@
   "scripts": {
     "dev": "lerna run dev --parallel",
     "build": "lerna run build --scope duilibb",
-    "dev-lib": "lerna run dev --scope duilibb"
+    "dev-lib": "lerna run dev --scope duilibb",
+    "dev-vue": "lerna run dev --scope vue-project"
+    
   },
   "devDependencies": {
     "lerna": "^8.2.0"
   },
   "dependencies": {
-    "duilibb": "^0.0.2",
+    "duilibb": "^0.0.3",
     "i": "^0.3.7",
     "npm": "^11.1.0"
   }
