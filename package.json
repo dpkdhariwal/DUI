@@ -10,7 +10,6 @@
     "build": "lerna run build --scope duilibb",
     "dev-lib": "lerna run dev --scope duilibb",
     "dev-vue": "lerna run dev --scope vue-project"
-    
   },
   "devDependencies": {
     "lerna": "^8.2.0"
