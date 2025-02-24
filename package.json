@@ -9,6 +9,7 @@
     "dev": "lerna run dev --parallel",
     "build": "lerna run build --scope duilibb",
     "dev-lib": "lerna run dev --scope duilibb",
+    "docs:dev":"lerna run docs:dev --scope duilibb",
     "dev-vue": "lerna run dev --scope vue-project"
   },
   "devDependencies": {
